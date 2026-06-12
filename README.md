@@ -1,49 +1,190 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF0055,35:7B2FF7,70:00D4FF,100:FFB703&text=VIKAS%20YADAV&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20IN%20TRAINING%20%E2%80%A2%20JAVA%20DEVELOPER%20%E2%80%A2%20ML%20ENTHUSIAST&descSize=18&descAlignY=58" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=900&color=FF0055&center=true&vCenter=true&width=900&lines=Building+Intelligent+Digital+Solutions;B.Tech+CSE+Artificial+Intelligence+Student;Java+Developer+%7C+Python+Programmer;Learning+DSA+in+Java;Future+AI%2FML+Engineer" />
+[![banner](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,30:3A0CA3,65:7209B7,100:FF006E&text=VIKAS%20YADAV&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20JAVA%20%7C%20PYTHON%20%7C%20MACHINE%20LEARNING&descSize=18&descAlignY=58)](https://github.com/vikas072)
 
-<br><br>
 
-<img src="https://img.shields.io/badge/AI%2FML-BUILDER-FF0055?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JAVA-DEVELOPER-7B2FF7?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/PYTHON-PROGRAMMER-00D4FF?style=for-the-badge&logo=python&logoColor=white" />
 
-</div>
+  
+
+
+
+
+  
+  
+  
+
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:FF0055,50:7B2FF7,100:00D4FF" />
-
-## 🧬 Digital Identity
+## ⚡ DIGITAL IDENTITY
 
 ```yaml
-name: Vikas Yadav
-role: B.Tech CSE Artificial Intelligence Student
-status:  3rd Year
-mission: Becoming an AI/ML Engineer
-focus:
-  - DSA in Java
-  - Machine Learning
-  - SQL & Databases
-  - Real-World Projects
-  - Internship Preparation
+name       : Vikas Yadav
+role       : B.Tech CSE — Artificial Intelligence
+college    : Galgotias College of Engineering & Technology
+cgpa       : 8.36 / 10
+status     : Completed 2nd Year
+location   : Greater Noida, India
+target     : AI/ML Internship 2025
+building   : Jarvis (AI Voice Assistant) • Optusers (EdTech)
+focus      : DSA in Java • Machine Learning • Full-Stack Dev
 ```
 
 ---
 
-## ⚡ Tech Arsenal
+## 🛠 TECH ARSENAL
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,git,github,vscode,mysql" />
-</p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Java-FF0055?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-7B2FF7?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00D4FF?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-FFB703?style=for-the-badge&logo=html5&logoColor=white" />
+  
+
+
+
+  
+  
+  
+  
+  
+  
+
+
+
+  
+  
+  
+
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+
+      
+🤖 JARVIS — AI Voice Assistant
+
+      
+Offline Python voice assistant using faster-whisper for local speech recognition and Groq LLaMA 3.1 for AI responses. Sub-2s response time.
+
+      
+
+        
+        
+        
+        
+      
+
+      
+    	
+      
+🌐 OPTUSERS — EdTech Platform
+
+      
+Live B.Tech EdTech platform with Firebase auth and Razorpay payments. Notes + video lectures for ₹29 one-time access.
+
+      
+
+        
+        
+        
+        
+      
+
+      
+    
+
+      
+🤖 AUTO-REPLY CHATBOT
+
+      
+Intelligent Python chatbot that automatically handles incoming messages and generates contextual replies.
+
+      
+
+        
+        
+        
+      
+
+      
+    	
+      
+☕ DSA IN JAVA
+
+      
+My ongoing journey solving Data Structures & Algorithms problems in Java — arrays, strings, recursion, OOP and beyond.
+
+      
+
+        
+        
+        
+      
+
+      
+    
+
+
+---
+
+## 🎯 CURRENT MISSION
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [✓] Learn Java OOP & Core Concepts
+  [✓] Build Jarvis AI Voice Assistant
+  [✓] Deploy Optusers EdTech Platform
+  [✓] Earn IBM AI Practitioner Certification
+  [⟳] Master DSA in Java (Arrays → Trees → Graphs)
+  [⟳] Learn Full-Stack Web Development
+  [⟳] Build ML Projects with Python
+  [⟳] Land AI/ML Internship 2025
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## 📊 GITHUB STATS
+
+
+  
+  
+
+
+
+  
+
+
+---
+
+## 🌌 ACTIVITY GRAPH
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikas072&bg_color=0D1117&color=00D9FF&line=7209B7&point=FF006E&area=true&hide_border=true)](https://github.com/vikas072)
+
+---
+
+## 🤝 CONNECT WITH ME
+
+
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+
+
+---
+
+
+[![footer](https://capsule-render.vercel.app/api?type=waving&height=130§ion=footer&color=0:FF006E,50:7209B7,100:0D1117)]()
+
+
+  ⚡ Code. Learn. Build. Repeat. ⚡
 <img src="https://img.shields.io/badge/CSS-3A86FF?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
