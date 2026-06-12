@@ -142,6 +142,75 @@ class VikasYadav {
 
 </div>
 ````
+```txt
+🤖 Jarvis AI Assistant             Python • Speech Recognition • AI APIs
+💬 AI WhatsApp Auto Reply Bot      Python • Automation • Groq API • AI Chatbot
+☕ Java DSA Journey                Java • DSA • Problem Solving
+🌐 Portfolio Website               HTML • CSS • Responsive Design
+📊 Machine Learning Lab            Python • ML • Data Cleaning
+🗄️ SQL Practice Hub                SQL • Joins • Database Queries
+```
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:7209B7,50:00D4FF,100:3A0CA3" />
+
+## 📊 Cosmic GitHub Dashboard
+
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vikas072&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00D4FF&text_color=FFFFFF&icon_color=7209B7" />
+</p>
+
+<p align="center">
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas072&theme=tokyonight&hide_border=true&background=020024&ring=00D4FF&fire=7209B7&currStreakLabel=00D4FF" />
+</p>
+
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas072&layout=compact&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00D4FF&text_color=FFFFFF" />
+</p>
+
+---
+
+## 🧠 Learning Path
+
+```java
+class VikasYadav {
+    String goal = "AI/ML Internship";
+    String currentFocus = "DSA in Java";
+    String[] skills = {"Java", "Python", "C", "HTML", "CSS", "Git", "SQL"};
+    String[] building = {"Jarvis AI Assistant", "AI WhatsApp Auto Reply Bot", "ML Projects"};
+    String mindset = "Code. Learn. Build. Repeat.";
+}
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:yv.vikasyadav72@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00D4FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/vikas072">
+<img src="https://img.shields.io/badge/GITHUB-7209B7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/vikas-yadav-4975a731b">
+<img src="https://img.shields.io/badge/LINKEDIN-3A0CA3?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1000&color=7209B7&center=true&vCenter=true&width=800&lines=Code.+Learn.+Build.+Repeat.;Turning+Ideas+into+Intelligent+Solutions;Welcome+to+my+Digital+Universe" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:00D4FF,35:7209B7,70:3A0CA3,100:020024&animation=twinkling" />
+
+</div>
+````
 
 ```yaml
 ╔══════════════════════════════════════════════════╗
