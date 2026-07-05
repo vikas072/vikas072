@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00D4FF,35:7B2FF7,70:3A0CA3,100:0D1117&text=VIKAS%20YADAV&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20in%20Training%20•%20Java%20Developer%20•%20ML%20Enthusiast&descSize=18&descAlignY=58" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+(Artificial+Intelligence);Java+Developer;Python+Programmer;Learning+DSA+in+Java;Building+AI+Projects;Future+AI%2FML+Engineer" />
